@@ -1,0 +1,9 @@
+.btn-blue{
+
+	background-color: springgreen;
+	padding: 10px 15px;
+	border-radius: 10%;
+	color: grey;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+}
